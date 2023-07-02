@@ -1,0 +1,5 @@
+Step1: cd C:\Users\priya\Downloads\code\code\DDOS_ATTACK
+Step2: Here In this location ,open cmd prompt. Then run a cmd ---> ddos_attackvenv\Scripts\activate
+Step3: After that run a cmd ---> python manage.py runserver : This cmd will start the server and project.
+Step4: Now open http://127.0.0.1:8000/ this URL in the browser.
+Step5 : USER_NAME and PASSWORD are admin/admin
