@@ -1,0 +1,5 @@
+    System.out.println(destinations(teleporters1, 6, 0, 20));  // [1, 2, 6, 10]
+    System.out.println(destinations(teleporters2, 6, 46, 100));  // [48, 49, 50, 51, 52, 29]
+    System.out.println(destinations(teleporters2, 10, 0, 50));  // [1, 2, 3, 4, 7, 8, 9, 10, 22]
+    System.out.println(destinations(teleporters3, 10, 95, 100));  // [96, 97, 98, 99, 100]
+    System.out.println(destinations(teleporters3, 10, 70, 100));  // [72, 73, 75, 76
